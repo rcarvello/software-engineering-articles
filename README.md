@@ -27,7 +27,7 @@ The goal is not to collect theoretical material, but to extract **reusable conce
 
 ### SQL
 
-* **[SQL Patterns — A Practical Guide for Business Application Developers](articles/sql/sql-patterns.md)**
+* **[SQL Patterns — A Practical Guide for Business Application Developers](sql/sql-patterns.md)**
   A practical guide to the most recurring SQL patterns in business applications: filtering, joins, aggregation, `EXISTS`, `NOT EXISTS`, CTEs, window functions, "last record per group", and translating business requirements into SQL queries.
 
 ## Structure
