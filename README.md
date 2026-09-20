@@ -37,7 +37,6 @@ Articles are organised by topic:
 ```text
 .
 ├── README.md
-└── articles/
     ├── sql/
     │   └── sql-patterns.md
     ├── architecture/
