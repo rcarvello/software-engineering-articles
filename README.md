@@ -30,6 +30,9 @@ The goal is not to collect theoretical material, but to extract **reusable conce
 * **[SQL Patterns — A Practical Guide for Business Application Developers](sql/sql-patterns-en.md)**
   A practical guide to the most recurring SQL patterns in business applications: filtering, joins, aggregation, `EXISTS`, `NOT EXISTS`, CTEs, window functions, "last record per group", and translating business requirements into SQL queries.
 
+* **[Essential Guide to Advanced SQL Patterns for Data Engineering](sql/Essential-Guide-to-Advanced-SQL-Patterns-for-Data-Engineering.md)**
+  A practical reference to 10 core SQL patterns for data pipelines:   deduplication, gaps and islands, running totals/moving windows, pivot/unpivot, anti-joins, date spines, top-N per group, incremental upserts (MERGE), the QUALIFY clause, and log sessionization. Each pattern includes a working query, common pitfalls, and dialect notes (PostgreSQL, BigQuery, SQL Server, Snowflake, MySQL). Closes with an FAQ on ROW_NUMBER vs RANK vs DENSE_RANK and why ROWS and RANGE frames can produce different results in running totals.
+
 ## Structure
 
 Articles are organised by topic:
