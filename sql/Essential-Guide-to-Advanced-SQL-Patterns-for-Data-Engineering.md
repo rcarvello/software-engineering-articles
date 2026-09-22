@@ -1,7 +1,8 @@
+# Guida Essenziale ai Modelli SQL Avanzati per l'Ingegneria dei Dati
 
-## Guida Essenziale ai Modelli SQL Avanzati per l'Ingegneria dei Dati
 La progettazione di pipeline di dati efficienti richiede spesso una profonda conoscenza di SQL. Evitare linguaggi procedurali permette di mantenere le trasformazioni veloci, scalabili e integrate direttamente nel database.
 Melty dei problemi quotidiani legati alla manipolazione dei dati possono essere risolti combinando le funzioni finestra (Window Functions) e specifiche tecniche di join. Di seguito vengono analizzati 10 costrutti fondamentali, i casi d'uso tipici e i potenziali errori logici da evitare in produzione.
+
 ------------------------------
 
 ## Tabella di Riferimento Rapido
@@ -19,7 +20,7 @@ Melty dei problemi quotidiani legati alla manipolazione dei dati possono essere 
 | Raggruppamento di eventi temporali in sessioni utente | Sessionizzazione | `LAG()` + Condizione |
 ------------------------------
 
-## I 10 Modelli SQL da Conoscere
+# I 10 Modelli SQL da Conoscere
 
 ## 1. Deduplicazione dei Dati
 
