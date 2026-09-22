@@ -1,9 +1,13 @@
 ## Essential Guide to Advanced SQL Patterns for Data Engineering
+
 Designing efficient data pipelines often requires a deep understanding of SQL. Avoiding procedural languages keeps transformations fast, scalable, and integrated directly into the database.
-Many everyday data manipulation problems can be solved by combining window functions with specific join techniques. Below are 10 fundamental constructs, their typical use cases, and the potential logical pitfalls to avoid in production.
+Many everyday data manipulation problems can be solved by combining window functions with specific join techniques. Below are 10 fundamental constructs, their typical use cases, 
+and the potential logical pitfalls to avoid in production.
+
 ------------------------------
 
 ## Quick Reference Table
+
 | Common Problem | Recommended SQL Pattern | Main Construct |
 |---|---|---|
 | Removing duplicate records while keeping the most recent one | Deduplication | `ROW_NUMBER()` |
