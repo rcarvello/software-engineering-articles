@@ -43,6 +43,7 @@ Articles are organised by topic:
     ├── sql/
     │   └── sql-patterns.md
         └── sql-patterns-en.md
+        └── ......
     ├── architecture/
     ├── design-patterns/
     ├── databases/
@@ -50,7 +51,7 @@ Articles are organised by topic:
     └── software-engineering/
 ```
 
-The structure may evolve as the collection grows. Files are written in Italian and English
+The structure may evolve as the collection grows. Files are written in **Italian** and **English**
 
 ## Philosophy
 
