@@ -34,7 +34,7 @@ The goal is not to collect theoretical material, but to extract **reusable conce
   A practical reference to 10 core SQL patterns for data pipelines:   deduplication, gaps and islands, running totals/moving windows, pivot/unpivot, anti-joins, date spines, top-N per group, incremental upserts (MERGE), the QUALIFY clause, and log sessionization. Each pattern includes a working query, common pitfalls, and dialect notes (PostgreSQL, BigQuery, SQL Server, Snowflake, MySQL). Closes with an FAQ on ROW_NUMBER vs RANK vs DENSE_RANK and why ROWS and RANGE frames can produce different results in running totals.
 
 ### Design Pattern
-* **[Building a Dependency Injection Container in Plain PHP](design-pattern/di-container-employee-en.md)**
+* **[Building a Dependency Injection Container in Plain PHP](design-patterns/php-di-employees/di-container-employee-en.md)**
   A hands-on guide to Dependency Injection that builds a working DI container from scratch in PHP 8.1+, with no Composer and no external libraries.
 It starts with a simple factory registry, adds Reflection-based autowiring, and explains the complete container method by method.
 The example is a small employee/department app, with a repository interface, two interchangeable implementations, singletons and scalar parameters.
