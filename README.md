@@ -41,6 +41,7 @@ The example is a small employee/department app, with a repository interface, two
 It also covers clear error messages, circular-dependency detection, why data objects stay out of the container, and the Service Locator pitfall.
 Includes a downloadable, runnable project with smoke tests.
 
+  [Source Code](design-patterns/php-di-employees)
 ## Structure
 
 Articles are organised by topic:
