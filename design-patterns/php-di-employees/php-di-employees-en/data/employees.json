@@ -1,0 +1,22 @@
+[
+  { "id": 1,  "firstName": "Giulia",    "lastName": "Rossi",     "birthDate": "1985-03-15",
+    "department": { "code": "SAL", "name": "Sales",               "location": "Milan"   } },
+  { "id": 2,  "firstName": "Marco",     "lastName": "Bianchi",   "birthDate": "1990-12-01",
+    "department": { "code": "IT",  "name": "Information Systems", "location": "Rome"    } },
+  { "id": 3,  "firstName": "Francesca", "lastName": "Verdi",     "birthDate": "1978-07-22",
+    "department": { "code": "PUR", "name": "Purchasing",          "location": "Turin"   } },
+  { "id": 4,  "firstName": "Luca",      "lastName": "Ferrari",   "birthDate": "1995-01-30",
+    "department": { "code": "IT",  "name": "Information Systems", "location": "Rome"    } },
+  { "id": 5,  "firstName": "Chiara",    "lastName": "Esposito",  "birthDate": "1988-09-09",
+    "department": { "code": "HR",  "name": "Human Resources",     "location": "Bologna" } },
+  { "id": 6,  "firstName": "Andrea",    "lastName": "Romano",    "birthDate": "1972-05-04",
+    "department": { "code": "SAL", "name": "Sales",               "location": "Milan"   } },
+  { "id": 7,  "firstName": "Sara",      "lastName": "Colombo",   "birthDate": "1999-11-20",
+    "department": { "code": "IT",  "name": "Information Systems", "location": "Rome"    } },
+  { "id": 8,  "firstName": "Davide",    "lastName": "Ricci",     "birthDate": "1982-11-11",
+    "department": { "code": "PUR", "name": "Purchasing",          "location": "Turin"   } },
+  { "id": 9,  "firstName": "Elena",     "lastName": "Marino",    "birthDate": "1993-06-18",
+    "department": { "code": "HR",  "name": "Human Resources",     "location": "Bologna" } },
+  { "id": 10, "firstName": "Paolo",     "lastName": "Greco",     "birthDate": "1968-08-30",
+    "department": { "code": "SAL", "name": "Sales",               "location": "Milan"   } }
+]

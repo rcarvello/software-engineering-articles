@@ -1,0 +1,22 @@
+[
+  { "id": 1,  "nome": "Giulia",    "cognome": "Rossi",     "dataNascita": "1985-03-15",
+    "department": { "codice": "VEN", "nome": "Vendite",              "sede": "Milano"  } },
+  { "id": 2,  "nome": "Marco",     "cognome": "Bianchi",   "dataNascita": "1990-12-01",
+    "department": { "codice": "IT",  "nome": "Sistemi Informativi",  "sede": "Roma"    } },
+  { "id": 3,  "nome": "Francesca", "cognome": "Verdi",     "dataNascita": "1978-07-22",
+    "department": { "codice": "ACQ", "nome": "Acquisti",             "sede": "Torino"  } },
+  { "id": 4,  "nome": "Luca",      "cognome": "Ferrari",   "dataNascita": "1995-01-30",
+    "department": { "codice": "IT",  "nome": "Sistemi Informativi",  "sede": "Roma"    } },
+  { "id": 5,  "nome": "Chiara",    "cognome": "Esposito",  "dataNascita": "1988-09-09",
+    "department": { "codice": "HR",  "nome": "Risorse Umane",        "sede": "Bologna" } },
+  { "id": 6,  "nome": "Andrea",    "cognome": "Romano",    "dataNascita": "1972-05-04",
+    "department": { "codice": "VEN", "nome": "Vendite",              "sede": "Milano"  } },
+  { "id": 7,  "nome": "Sara",      "cognome": "Colombo",   "dataNascita": "1999-11-20",
+    "department": { "codice": "IT",  "nome": "Sistemi Informativi",  "sede": "Roma"    } },
+  { "id": 8,  "nome": "Davide",    "cognome": "Ricci",     "dataNascita": "1982-11-11",
+    "department": { "codice": "ACQ", "nome": "Acquisti",             "sede": "Torino"  } },
+  { "id": 9,  "nome": "Elena",     "cognome": "Marino",    "dataNascita": "1993-06-18",
+    "department": { "codice": "HR",  "nome": "Risorse Umane",        "sede": "Bologna" } },
+  { "id": 10, "nome": "Paolo",     "cognome": "Greco",     "dataNascita": "1968-08-30",
+    "department": { "codice": "VEN", "nome": "Vendite",              "sede": "Milano"  } }
+]
